@@ -1,4 +1,10 @@
 {
+  "Twitter": {
+    "createdAt": "2022-04-20T07:00:28.350Z",
+    "color": "#006af5",
+    "desc": "",
+    "isInner": false
+  },
   "中文": {
     "color": "#2e45f5",
     "createdAt": "2018-01-25T07:56:31.372Z",

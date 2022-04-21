@@ -14,7 +14,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/DAOVoice/nav@main/src/assets/img/banner.png",
       "url": "",
       "width": null,
       "height": null
@@ -25,7 +25,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://cdn.jsdelivr.net/gh/DAOVoice/nav@main/src/assets/img/banner.png",
       "url": "",
       "width": null,
       "height": null

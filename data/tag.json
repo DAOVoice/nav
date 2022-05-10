@@ -1,4 +1,10 @@
 {
+  "Discord": {
+    "createdAt": "2022-05-10T02:33:23.587Z",
+    "color": "#6569ec",
+    "desc": "",
+    "isInner": false
+  },
   "Twitter": {
     "createdAt": "2022-04-20T07:00:28.350Z",
     "color": "#006af5",
